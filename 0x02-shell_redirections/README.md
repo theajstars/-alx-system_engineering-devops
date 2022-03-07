@@ -1,1 +1,2 @@
-If you are interested in participating in the ALX-Header project see here: https://github.com/HamaBarhamou/ALX-Header
+0-hello_world prints "Hello, World",followed by a new line.
+1-confused_smiley displays a confused similey
